@@ -16,7 +16,7 @@
 
 ## 관련 코드 
   # class 관련
-    - class_change.py: 폴더에 폴더에 있는 yolo_format txt파일을 다 읽어와서 class label을 바꾸는 코드
+    * class_change.py: 폴더에 폴더에 있는 yolo_format txt파일을 다 읽어와서 class label을 바꾸는 코드
     - class_check.py: 폴더에 폴더에 있는 yolo_format txt파일을 다 읽어와서 중복을 제거한 class label을 print 해주는 코드
     - class_find.py: 폴더에 있는 yolo_format txt 파일중 선택돤 class가 해당된 txt파일들을 모두 print 해주는 코드
 
